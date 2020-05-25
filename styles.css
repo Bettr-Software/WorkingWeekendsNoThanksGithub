@@ -1,0 +1,12 @@
+rect:nth-of-type(1)[fill='#c6e48b'],rect:nth-of-type(7)[fill='#c6e48b']{
+    fill: #F56565;
+}
+rect:nth-of-type(1)[fill='#7bc96f'],rect:nth-of-type(7)[fill='#7bc96f']{
+    fill: #E53E3E;
+}
+rect:nth-of-type(1)[fill='#239a3b'],rect:nth-of-type(7)[fill='#239a3b'] {
+    fill: #C53030;
+}
+rect:nth-of-type(1)[fill='#196127'],rect:nth-of-type(7)[fill='#196127']{
+    fill: #9B2C2C;
+}
